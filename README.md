@@ -1,5 +1,4 @@
 # React WebApp - Random Person Generator Project: 
-A project where a user can generate random users/people with a click of a button by fetching data from an API.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple WebApp where a user can generate random users/people (random user's title, first name, last name and image) with a click of a button by fetching data from the https://randomuser.me/ API.
 
 
